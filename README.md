@@ -1,3 +1,3 @@
 # Leetcode
 
-Interview Questions and compititive programming
+Interview Questions and Competitive programming
